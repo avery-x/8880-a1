@@ -1,2 +1,2 @@
 # 8880-a1
-COMP8880 A1
+Code for COMP8880 assignment 1, S1 2025. 
